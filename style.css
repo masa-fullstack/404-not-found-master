@@ -22,9 +22,6 @@ header {
 	margin: auto;
 }
 
-.content {
-}
-
 .img {
 	width: 50%;
 	margin-right: 80px;
@@ -100,17 +97,19 @@ footer {
 		font-size: 52px;
 		line-height: 71px;
 	}
+
 	.content__description {
 		font-size: 22px;
 		line-height: 27px;
 	}
+}
 
 @media screen and (max-width: 480px) {
-
 	.content__summary {
 		font-size: 48px;
 		line-height: 71px;
 	}
+
 	.content__description {
 		font-size: 18px;
 		line-height: 27px;
