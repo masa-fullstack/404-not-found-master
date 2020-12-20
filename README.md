@@ -69,5 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/masa-fullstack)
-- Twitter [@your-twitter](https://twitter.com/masa_fullstack)
+- GitHub [@masa-fullstack](https://github.com/masa-fullstack)
+- Twitter [@masa_fullstack](https://twitter.com/masa_fullstack)
