@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://gyazo.com/e1320ec45c943981d374fc1b3e7d2f8a">
+    <a href="https://i.gyazo.com/e1320ec45c943981d374fc1b3e7d2f8a.gif">
       Demo
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]("./demo.gif")
+![screenshot](https://i.gyazo.com/e1320ec45c943981d374fc1b3e7d2f8a.gif)
 
 I always feel that css is more difficult than mastering the javascript framework.
 Through this project, I was able to catch up on BEM naming, flexbox, and responsive design.
