@@ -8,9 +8,10 @@
 
 <div align="center">
   <h3>
-    <a href="https://i.gyazo.com/e1320ec45c943981d374fc1b3e7d2f8a.gif">
+    <a href="demo.gif">
       Demo
     </a>
+    ![screenshot](demo.gif)
     <span> | </span>
     <a href="https://not-found-master-579ee.firebaseapp.com/">
       Solution
@@ -36,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://i.gyazo.com/e1320ec45c943981d374fc1b3e7d2f8a.gif)
+![screenshot](demo.gif)
 
 I always feel that css is more difficult than mastering the javascript framework.
 Through this project, I was able to catch up on BEM naming, flexbox, and responsive design.
