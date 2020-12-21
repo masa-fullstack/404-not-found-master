@@ -11,7 +11,6 @@
     <a href="demo.gif">
       Demo
     </a>
-    ![screenshot](demo.gif)
     <span> | </span>
     <a href="https://not-found-master-579ee.firebaseapp.com/">
       Solution
