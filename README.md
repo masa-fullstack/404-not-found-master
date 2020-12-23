@@ -38,15 +38,14 @@
 
 ![screenshot](demo.gif)
 
-I always feel that css is more difficult than mastering the javascript framework.
+I always feel that css is more difficult than mastering the javascript framework.　　
 I decided to use bootstrap for the solution of this challenge.
 
-The image of the scarecrow and the message display area are shown in gird.
+The image of the scarecrow and the message display area are shown in gird.　　
 Specify "col-md-6" for each, and switch the display to 768px as the breakpoint.
 
-Through this project, I was able to catch up on bootstrap.
-The BKUP folder should also contain the (incomplete) solution in CSS.
-Thanks for taking a look.
+Through this project, I was able to catch up on bootstrap.　　
+Thanks for taking a look:)
 
 ### Built With
 
