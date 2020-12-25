@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](demo.gif)
+![screenshot](./public/images/demo.gif)
 
 I always feel that css is more difficult than mastering the javascript framework.<br>
 I decided to use bootstrap for the solution of this challenge.
